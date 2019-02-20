@@ -1,0 +1,4 @@
+-- Maybe not use grid, but some justified system
+-- There was the justified photo grid using the css library. Flex-kit
+-- Not sure if I want to use flexkit.css because would rather do it in React? 
+-- Justified grid react vs. justified image grid react - google search
